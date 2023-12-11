@@ -1,0 +1,125 @@
+Company: INFINITY GROUP
+Location: Noida/Greater Noida
+Skills: python  ,  css  ,  django  ,  html  ,  bootstrap
+Link: https://www.timesjobs.com/job-detail/python-developer-infinity-group-noida-greater-noida-2-to-5-yrs-jobid-efOg3e9X__SLASH__D9zpSvf__PLUS__uAgZw==&source=srp
+
+Company: Ivan Infotech Pvt. Ltd.
+Location: Kolkata
+Skills: rest  ,  python  ,  security  ,  debugging
+Link: https://www.timesjobs.com/job-detail/python-developer-ivan-infotech-pvt-ltd-kolkata-2-to-5-yrs-jobid-1h6sLaqbaBZzpSvf__PLUS__uAgZw==&source=srp
+
+Company: glan management consultancy pvt. ltd.
+Location: Noida/Greater Noida
+Skills: python  ,  rdbms  ,  mysql  ,  cloud computing  ,  docker  ,  sql
+Link: https://www.timesjobs.com/job-detail/python-developer-glan-management-consultancy-pvt-ltd-noida-greater-noida-5-to-8-yrs-jobid-2yjhPFea__SLASH__AJzpSvf__PLUS__uAgZw==&source=srp
+
+Company: east india securities ltd.
+Location: Kolkata
+Skills: python  ,  hadoop  ,  machine learning
+Link: https://www.timesjobs.com/job-detail/python-engineer-east-india-securities-ltd-kolkata-2-to-5-yrs-jobid-KEkE19WqPbFzpSvf__PLUS__uAgZw==&source=srp
+
+Company: young minds technology solutions pvt ltd
+Location: Tirupati
+Skills: python  ,  html5  ,  storage  ,  javascript  ,  security  ,  django
+Link: https://www.timesjobs.com/job-detail/python-developer-young-minds-technology-solutions-pvt-ltd-tirupati-0-to-3-yrs-jobid-NDA__SLASH__WwOTUCFzpSvf__PLUS__uAgZw==&source=srp
+
+Company: Wing Global IT Services
+Location: Panchkula
+Skills: spring boot  ,  python  ,  java  ,  django  ,  jpa  ,  hibernate
+Link: https://www.timesjobs.com/job-detail/python-developer-wing-global-it-services-panchkula-2-to-5-yrs-jobid-__PLUS__fePw2G3HHZzpSvf__PLUS__uAgZw==&source=srp
+
+Company: art technology and software india pvt ltd
+Location: Cochin/ Kochi/ Ernakulam
+Skills: rest  ,  python  ,  database  ,  django  ,  api
+Link: https://www.timesjobs.com/job-detail/python-developer-art-technology-and-software-india-pvt-ltd-cochin-kochi-ernakulam-2-to-3-yrs-jobid-M26lxDEd__PLUS__qtzpSvf__PLUS__uAgZw==&source=srp
+
+Company: Root Info Solutions
+Location: Delhi,  Delhi/NCR
+Skills: python 2  ,   python 3  ,   django  ,   javascript  ,   html  ,   postgresql  /  mysql  ,   rest api  ,   celery rabbitmq  ,   redis.   ,  css  ,  oop
+Link: https://www.timesjobs.com/job-detail/python-developer-root-info-solutions-delhi-delhi-ncr-2-to-3-yrs-jobid-fny4oGqOeQZzpSvf__PLUS__uAgZw==&source=srp
+
+Company: DREAMAJAX TECHNOLOGIES
+Location: Bengaluru / Bangalore
+Skills: python  ,  django  ,  api  ,  sql  ,  nosql
+Link: https://www.timesjobs.com/job-detail/python-developer-dreamajax-technologies-bengaluru-bangalore-4-to-7-yrs-jobid-EWIVCDzRLKBzpSvf__PLUS__uAgZw==&source=srp
+
+Company: day1 technologies
+Location: Bengaluru / Bangalore
+Skills: rest  ,  python  ,  django  ,  git  ,  postgresql  ,  sql  ,  docker
+Link: https://www.timesjobs.com/job-detail/python-developer-day1-technologies-bengaluru-bangalore-2-to-3-yrs-jobid-wnkkahyN0x9zpSvf__PLUS__uAgZw==&source=srp
+
+Company: zoondia software pvt ltd
+Location: Calicut/ Kozhikode,  Thiruvananthapuram
+Skills: rest  ,  python  ,  problem solving  ,  sql  ,  django  ,  mysql  ,  mvc  ,  middleware
+Link: https://www.timesjobs.com/job-detail/python-developer-zoondia-software-pvt-ltd-calicut-kozhikode-thiruvananthapuram-2-to-4-yrs-jobid-TzDwtM7EOgFzpSvf__PLUS__uAgZw==&source=srp
+
+Company: destiny hr group services
+Location: Gurgaon
+Skills: fundamentals  ,  python  ,  css  ,  javascript  ,  jquery  ,  database  ,  django  ,  java  ,  json  ,  html
+Link: https://www.timesjobs.com/job-detail/python-developer-destiny-hr-group-services-gurgaon-0-to-1-yrs-jobid-ZBPXkQ5iEPBzpSvf__PLUS__uAgZw==&source=srp
+
+Company: xonier technologies pvt ltd
+Location: Noida/Greater Noida
+Skills: python  ,  django  ,  testing tools  ,  debugging  ,  storage
+Link: https://www.timesjobs.com/job-detail/python-developer-xonier-technologies-pvt-ltd-noida-greater-noida-2-to-5-yrs-jobid-VZ3nXzqL2FNzpSvf__PLUS__uAgZw==&source=srp
+
+Company: Sourcedesk Global Private Limited
+Location: Kolkata
+Skills: html5  ,  storage  ,  python  ,  javascript  ,  django  ,  infrastructure
+Link: https://www.timesjobs.com/job-detail/python-developer-sourcedesk-global-private-limited-kolkata-3-to-15-yrs-jobid-A27Uf03p2IJzpSvf__PLUS__uAgZw==&source=srp
+
+Company: wibits web solutions llp
+Location: Washington DC
+Skills: python  ,  css  ,  javascript  ,  database  ,  django  ,  git  ,  postgresql  ,  web development  ,  html  ,  mysql
+Link: https://www.timesjobs.com/job-detail/python-developer-wibits-web-solutions-llp-washington-dc-0-to-3-yrs-jobid-sg06ePo5pGNzpSvf__PLUS__uAgZw==&source=srp
+
+Company: InnOvator Web Solutions Pvt.Ltd.
+Location: Mumbai
+Skills: rest  ,  python  ,  django  ,  web developer  ,  mysql  ,  api
+Link: https://www.timesjobs.com/job-detail/python-developer-innovator-web-solutions-pvt-ltd-mumbai-5-to-8-yrs-jobid-OO__SLASH__Qb2Q7MfpzpSvf__PLUS__uAgZw==&source=srp
+
+Company: CONNECTING 2 WORK
+Location: Thiruvananthapuram
+Skills: python  ,  storage  ,  django  ,  testing tools  ,  debugging
+Link: https://www.timesjobs.com/job-detail/python-developer-connecting-2-work-thiruvananthapuram-5-to-10-yrs-jobid-Tebue__SLASH__8iTzVzpSvf__PLUS__uAgZw==&source=srp
+
+Company: pearl global solutions
+Location: Cochin/ Kochi/ Ernakulam
+Skills: python  ,  database  ,  django  ,  team player  ,  sql
+Link: https://www.timesjobs.com/job-detail/python-developer-pearl-global-solutions-cochin-kochi-ernakulam-4-to-7-yrs-jobid-dZD__SLASH__NDlCjpVzpSvf__PLUS__uAgZw==&source=srp
+
+Company: AxisTechnolabs
+Location: Ahmedabad
+Skills: python  ,  django  ,  it skills  ,  html5  ,  api  ,  jquery
+Link: https://www.timesjobs.com/job-detail/python-odoo-axistechnolabs-ahmedabad-0-to-1-yrs-jobid-HzL8naalyxFzpSvf__PLUS__uAgZw==&source=srp
+
+Company: CIGNEX Datamatics Technologies Pvt Ltd
+Location: Bengaluru / Bangalore
+Skills: python  ,  sql  ,  django  ,  postgresql  ,  written communication  ,  api  ,  angularjs
+Link: https://www.timesjobs.com/job-detail/python-developer-cignex-datamatics-technologies-pvt-ltd-bengaluru-bangalore-3-to-5-yrs-jobid-tqMdlJMDwsFzpSvf__PLUS__uAgZw==&source=srp
+
+Company: Headhuntersinc consultancy Private Limited
+Location: Chennai
+Skills: hive  ,  c    ,  sql  ,  java  ,  linux  ,  hadoop  ,  big data  ,  c#  ,  global delivery  ,  python  ,  edi  ,  hl7  ,  .net  ,  unix
+Link: https://www.timesjobs.com/job-detail/python-architect-headhuntersinc-consultancy-private-limited-chennai-10-to-13-yrs-jobid-BMNaYijdR8BzpSvf__PLUS__uAgZw==&source=srp
+
+Company: MODE FINSERVER PRIVATE LIMITED
+Location: Bengaluru / Bangalore
+Skills: python  ,  webrtc  ,  html5  ,  javascript  ,  database  ,  django  ,  postgresql  ,  linux  ,  debugging  ,  sockets
+Link: https://www.timesjobs.com/job-detail/python-developer-mode-finserver-private-limited-bengaluru-bangalore-2-to-5-yrs-jobid-7VLOqvvZJNtzpSvf__PLUS__uAgZw==&source=srp
+
+Company: beechi vidya kendra
+Location: Hyderabad/Secunderabad
+Skills: big data  /  python   ,   aws   ,   backend web development   ,   flask  /  django  /  fastapi   ,   ci  /  cd practices   ,  technology consulting
+Link: https://www.timesjobs.com/job-detail/python-developer-beechi-vidya-kendra-hyderabad-secunderabad-5-to-10-yrs-jobid-SYJZxHGDYq5zpSvf__PLUS__uAgZw==&source=srp
+
+Company: brancosoft
+Location: Noida/Greater Noida
+Skills: html5  ,  oop  ,  security  ,  postgresql  ,  mysql  ,  rest  ,  python  ,  javascript  ,  django  ,  soap
+Link: https://www.timesjobs.com/job-detail/python-developer-brancosoft-noida-greater-noida-2-to-5-yrs-jobid-wIMsd__PLUS__PkXE5zpSvf__PLUS__uAgZw==&source=srp
+
+Company: MODE FINSERVER PRIVATE LIMITED
+Location: Bengaluru / Bangalore
+Skills: python  ,  css  ,  machine learning  ,  artificial intelligence  ,  javascript  ,  sql  ,  django  ,  html  ,  dash
+Link: https://www.timesjobs.com/job-detail/python-lead-mode-finserver-private-limited-bengaluru-bangalore-7-to-10-yrs-jobid-z4b1uidMH0JzpSvf__PLUS__uAgZw==&source=srp
+
